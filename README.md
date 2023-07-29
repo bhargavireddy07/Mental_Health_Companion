@@ -4,18 +4,30 @@ Mental health is an important issue in the world today. With a large population 
 Mental health entails more than the absence of mental illnesses. Mental health issues affect the entire population, not just a tiny, isolated portion. Hence, we all need to invest our time, and technology toward a healthy mind.
 
 #Dataset
+
 Utilized Kaggle's Mental Tech Survey dataset for data analysis, feature engineering, and accurate predictions.
 
 #TECHNIQUES
+
 1.Encoding data
+
 2.Scaling
+
 3.Fitting
+
 4.Tuning
+
 5.Evaluating Models:
+
    Logistic Regression
+   
    KNeighbors Classifier
+   
    Decision Tree Classifier
+   
    Random Forests
+   
    Bagging 
+   
    Boosting
    Stacking
